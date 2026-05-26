@@ -123,3 +123,4 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
+CSRF_TRUSTED_ORIGINS=['https://web-production-491c3.up.railway.app']
